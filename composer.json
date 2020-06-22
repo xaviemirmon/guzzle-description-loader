@@ -1,5 +1,5 @@
 {
-    "name": "gimler/guzzle-description-loader",
+    "name": "xaviemirmon/guzzle-description-loader",
     "description": "Load guzzle service description from various file formats",
     "require": {
         "php": ">=5.5.0",
